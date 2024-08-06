@@ -1,20 +1,34 @@
 ---
-# Enchancing User Optimization through Quantum Technology
+# Enhancing User Optimization through Quantum Technology
 ---
 
-Complex numbers are numbers with a *real component* and an *imaginary component*, in the form a+bi, where a and b are **real numbers** and i is the ***imaginary unit***.
+**Background**
 
-An extended explanation of complex numbers can be found [here](https://en.wikipedia.org/wiki/Complex_number)
+Motivation for this project originates from the growing potential of quantum mechanics to restructure and revolutionize current system methods. As technology is constantly evolving, so should user satisfaction!! In order to develop intuitive interfaces for the user , creating efficient systems is crucial. This project strives to make quantum technologies more practical and integrated on a wide range of application systems. Initially, this idea will pilot on streaming services and on the secondary education application process.
 
-It can be helpful to visualize complex numbers on the complex plane:
-![Complex plane](https://upload.wikimedia.org/wikipedia/commons/5/57/90-Degree_Rotations_in_the_Complex_Plane.png)
+Further detail can be found ![here](https://images.app.goo.gl/SAhNBYjJm9PWcQ2h6)
 
- Complex can also be represented in polar form as seen below
-![Polar form](https://www.songho.ca/math/euler/files/euler17.png)
+Below includes current methods regarding ![user optimization:](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj3_9WMnN-HAxWMNAgFHczxN7EYABABGgJtZA&co=1&gclid=Cj0KCQjw8MG1BhCoARIsAHxSiQk2kXrwVwm7UCpdZSXwXoBLd528YfTg01fu2yWdEf_yVYCL0djBpN4aAieUEALw_wcB&ohost=www.google.com&cid=CAESVeD2EnZGjE-DqwZtMzF6NleeAXGvAH3Y-fcMUivwjYWUhhHJ0Hwl-CPi3SUj5ePR8skb0LBMcj9HselrjuensGcBw0GWGtkUfNAaRkJxrfNv_0NslTQ&sig=AOD64_2QkUbs2oc2neXu-wsmhg0nF9jrdA&q&adurl&ved=2ahUKEwib-NGMnN-HAxVYC3kGHRgzJ84Q0Qx6BAgSEAE)
 
-To understand how the polar form is derived check out this video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=JOl8VpLVjfM1kp1n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Resource 2:](https://youtu.be/WWzaZWN1IOU?si=2120jSNQ-y7xESsL)
 
-Complex numbers are important in quantum mechanics and computing, (explanation of concept)[^1]. 🧠
 
-[^1] [Scientific American](https://www.scientificamerican.com/article/quantum-physics-falls-apart-without-imaginary-numbers/)
+________________________
+
+**Tools** 🛠️
+
+*Mathematics*: Linear Algebra, Probability & Statistics, Number Theory
+
+
+________________________
+
+**Goals**
+
+Achieve certification in relevant IT fields
+
+Find an internship based on Information Science
+
+Complete a personal project using tools in quantum computing
+
+
+
