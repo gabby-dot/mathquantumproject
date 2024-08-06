@@ -4,14 +4,17 @@
 
 **Background**
 
+Motivation for this project originates from the growing potential of quantum mechanics to restructure and revolutionize current system methods. As technology is constantly evolving, so should user satisfaction!! 
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
+________________________
 
 **Tools** 🛠️
 
 *Mathematics*: Linear Algebra, Probability & Statistics, Number Theory
 
+
+________________________
 
 **Goals**
 
