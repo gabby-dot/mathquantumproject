@@ -10,7 +10,7 @@ Further detail can be found ![here](https://images.app.goo.gl/SAhNBYjJm9PWcQ2h6)
 
 Below includes current methods regarding ![user optimization:](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj3_9WMnN-HAxWMNAgFHczxN7EYABABGgJtZA&co=1&gclid=Cj0KCQjw8MG1BhCoARIsAHxSiQk2kXrwVwm7UCpdZSXwXoBLd528YfTg01fu2yWdEf_yVYCL0djBpN4aAieUEALw_wcB&ohost=www.google.com&cid=CAESVeD2EnZGjE-DqwZtMzF6NleeAXGvAH3Y-fcMUivwjYWUhhHJ0Hwl-CPi3SUj5ePR8skb0LBMcj9HselrjuensGcBw0GWGtkUfNAaRkJxrfNv_0NslTQ&sig=AOD64_2QkUbs2oc2neXu-wsmhg0nF9jrdA&q&adurl&ved=2ahUKEwib-NGMnN-HAxVYC3kGHRgzJ84Q0Qx6BAgSEAE)
 
-![Resource 2:](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj3_9WMnN-HAxWMNAgFHczxN7EYABADGgJtZA&ae=2&co=1&gclid=Cj0KCQjw8MG1BhCoARIsAHxSiQkUDvg2gMy4VXjJVYETAVtpiMvcgYz6aStWkdluJu_8jNarsTpkdw4aAlR8EALw_wcB&ohost=www.google.com&cid=CAESVeD2EnZGjE-DqwZtMzF6NleeAXGvAH3Y-fcMUivwjYWUhhHJ0Hwl-CPi3SUj5ePR8skb0LBMcj9HselrjuensGcBw0GWGtkUfNAaRkJxrfNv_0NslTQ&sig=AOD64_00hXh0PgqmLAu_OUfHderk7imA6w&q&adurl&ved=2ahUKEwib-NGMnN-HAxVYC3kGHRgzJ84Q0Qx6BAgcEAE)
+![Resource 2:](https://youtu.be/WWzaZWN1IOU?si=2120jSNQ-y7xESsL)
 
 
 ________________________
